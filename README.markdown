@@ -1,3 +1,6 @@
+# Changes from Davide
+I want to contribute!
+
 # Topeka for Android
 
 A fun to play quiz that showcases material design on Android
